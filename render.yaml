@@ -1,5 +1,3 @@
-name: learnato-forum
-
 databases:
   - name: learnato-db
     databaseName: learnato_forum
